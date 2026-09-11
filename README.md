@@ -34,10 +34,6 @@ The session covers agent topology, interoperability, delegated identity, least-p
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
-## Research Workspace
-
-- [NotebookLM notebook used during slide development](https://notebook.google.com/notebook/cf1fc939-5d81-4ca4-8a68-8399a2c85d74)
-
 Google Gemini and NotebookLM assisted with research, synthesis, and drafting. They are authoring tools rather than authoritative sources. The presenters reviewed and revised the final architecture claims; the primary references above should be used to validate substantive claims.
 
 ## Reference Implementation

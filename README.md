@@ -4,6 +4,8 @@ Public resources supporting our Dreamforce 2026 Architect Vista session on gover
 
 The session covers agent topology, interoperability, delegated identity, least-privilege access, policy enforcement, observable execution, reliability, and the containment of unsupported AI output.
 
+![QR code for this resource guide](df26-multi-agent-governance-qr.png)
+
 ## Agentforce and Multi-Agent Architecture
 
 - [Agentforce](https://www.salesforce.com/agentforce/)

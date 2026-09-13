@@ -30,7 +30,6 @@ The session covers agent topology, interoperability, delegated identity, least-p
 
 ## Reliability, Security, and Responsible AI
 
-- [Salesforce Trusted AI Principles](https://www.salesforce.com/news/stories/ethical-ai-principles/)
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 
